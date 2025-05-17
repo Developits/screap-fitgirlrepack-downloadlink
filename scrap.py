@@ -56,3 +56,5 @@ class FitGirlScraper:
 if __name__ == "__main__":
     FitGirlScraper().run(input("Enter the URL of the game page: "))
     print("Scraping complete. Links saved to download_links.txt")    
+
+#need to test the 2nd commet
